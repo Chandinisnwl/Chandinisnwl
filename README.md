@@ -29,17 +29,6 @@ I'm a passionate computer science student who believes in creating technology th
 
 ---
 
-## � Visual Highlights
-
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=900&q=80" width="280" alt="Coding desk setup"/>
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" width="280" alt="AI concept illustration"/>
-  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80" width="280" alt="Team collaboration"/>
-</div>
-
-> Building real products with clean code, smart design, and collaborative energy.
-
----
 
 ## 🛠️ Tech Stack & Tools
 
