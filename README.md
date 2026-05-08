@@ -29,24 +29,15 @@ I'm a passionate computer science student who believes in creating technology th
 
 ---
 
-## 🚀 Featured Projects
+## � Visual Highlights
 
 <div align="center">
-
-### 🌾 KrishiCare - Smart Farming Dashboard
-[![KrishiCare](https://img.shields.io/badge/KrishiCare-Live_Demo-00D4FF?style=for-the-badge&logo=render&logoColor=white)](https://krishicare.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Chandinisnwl/KrishiCare)
-
-*A full-stack farming dashboard with weather-aware crop planning, market insights, and expert guidance*
-
-**Tech Stack:** React 18, TypeScript, Node.js, Express, Tailwind CSS, Drizzle ORM
-
----
-
-### 🔧 More Projects Coming Soon...
-*Working on exciting projects in AI/ML and web development. Stay tuned!*
-
+  <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=900&q=80" width="280" alt="Coding desk setup"/>
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80" width="280" alt="AI concept illustration"/>
+  <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=80" width="280" alt="Team collaboration"/>
 </div>
+
+> Building real products with clean code, smart design, and collaborative energy.
 
 ---
 
