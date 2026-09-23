@@ -1,4 +1,4 @@
-# � Hello, I'm Chandini Sonowal!
+# Hello, I'm Chandini Sonowal!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=940&lines=BTech+Computer+Science+Student;Full-Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver+%26+Tech+Innovator" alt="Typing SVG" />
